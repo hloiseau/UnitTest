@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\hugo\DEV\ConsoleApp2\BddTests\bin\Debug\BddTests.dll" total="2" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2018-03-12" time="10:41:17">
+  <environment nunit-version="2.6.4.14350" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\hugo\DEV\ConsoleApp2\BddTests\bin\Debug" machine-name="DESKTOP-ANJCVOL" user="hugo" user-domain="DESKTOP-ANJCVOL" />
+  <culture-info current-culture="fr-FR" current-uiculture="fr-FR" />
+  <test-suite type="Assembly" name="C:\Users\hugo\DEV\ConsoleApp2\BddTests\bin\Debug\BddTests.dll" executed="True" result="Failure" success="False" time="0.119" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="BddTests" executed="True" result="Failure" success="False" time="0.110" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="SimpleTests" executed="True" result="Failure" success="False" time="0.109" asserts="0">
+            <results>
+              <test-case name="BddTests.SimpleTests.should_fail" executed="True" result="Failure" success="False" time="0.034" asserts="1">
+                <failure>
+                  <message><![CDATA[  Expected: 0
+  But was:  4
+]]></message>
+                  <stack-trace><![CDATA[à BddTests.SimpleTests.should_fail() dans C:\Users\hugo\DEV\ConsoleApp2\BddTests\SimpleTests.cs:ligne 22
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="BddTests.SimpleTests.should_pass" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

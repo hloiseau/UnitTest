@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ShowCheckBoxes="false">
+  <TopNode>[0-1003]C:\Users\hugo\DEV\ConsoleApp2\BddTests\bin\Debug\BddTests.dll</TopNode>
+  <SelectedNode>[0-1003]C:\Users\hugo\DEV\ConsoleApp2\BddTests\bin\Debug\BddTests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1003]C:\Users\hugo\DEV\ConsoleApp2\BddTests\bin\Debug\BddTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1004]BddTests" Expanded="true" />
+    <Node UniqueName="[0-1000]BddTests.SimpleTests" Expanded="true" />
+  </Nodes>
+</VisualState>

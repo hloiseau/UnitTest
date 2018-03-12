@@ -1,0 +1,9 @@
+C:\Users\hugo\DEV\ConsoleApp2\BddTests\bin\Debug\BddTests.dll
+C:\Users\hugo\DEV\ConsoleApp2\BddTests\bin\Debug\BddTests.pdb
+C:\Users\hugo\DEV\ConsoleApp2\BddTests\bin\Debug\nunit.framework.dll
+C:\Users\hugo\DEV\ConsoleApp2\BddTests\bin\Debug\nunit.framework.xml
+C:\Users\hugo\DEV\ConsoleApp2\BddTests\obj\Debug\BddTests.csprojResolveAssemblyReference.cache
+C:\Users\hugo\DEV\ConsoleApp2\BddTests\obj\Debug\BddTests.csproj.CoreCompileInputs.cache
+C:\Users\hugo\DEV\ConsoleApp2\BddTests\obj\Debug\BddTests.csproj.CopyComplete
+C:\Users\hugo\DEV\ConsoleApp2\BddTests\obj\Debug\BddTests.dll
+C:\Users\hugo\DEV\ConsoleApp2\BddTests\obj\Debug\BddTests.pdb
